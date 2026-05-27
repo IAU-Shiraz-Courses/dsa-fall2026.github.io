@@ -50,7 +50,7 @@ Download the weekly exercise sheets and their solution keys below. Make sure to 
 
 ---
 
-### Week 6 – 
+### Week 6 – Disjoint_Sets & Binary_Search_and_KSelect
 **Due Date:** May 12, 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week06_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week06_solution.pdf)
