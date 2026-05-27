@@ -29,21 +29,21 @@ Download the weekly exercise sheets and their solution keys below. Make sure to 
 📋 [Download Solution Key](/static_files/exercises/week02_solution.pdf)
 
 ---
-### Week 3 – 
+### Week 3 – Complexity_Analysis_of_Algorithms & Basic_Data_Structures & Tree_Storage_and_Traversal
 **Due Date:** April 21, 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week03_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week03_solution.pdf)
 
 ---
 
-### Week 4 – 
+### Week 4 – Trees & BST & Trie & Heap
 **Due Date:** May 5, 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week04_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week04_solution.pdf)
 
 ---
 
-### Week 5 – 
+### Week 5 – Sorting_Advanced
 **Due Date:** May 5, 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week05_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week05_solution.pdf)
@@ -64,21 +64,21 @@ Download the weekly exercise sheets and their solution keys below. Make sure to 
 
 ---
 
-### Week 8 – 
+### Week 8 – Hashing & Graph_Algorithms
 **Due Date:** May 26, 2026 
 📄 [Download Exercise Sheet](/static_files/exercises/week08_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week08_solution.pdf)
 
 ---
 
-### Week 9 – 
+### Week 9 – Graph_Algorithms & Advanced_Data_Structures
 **Due Date:** , 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week09_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week09_solution.pdf)
 
 ---
 
-### Week 10 – 
+### Week 10 – Balanced_BSTs
 **Due Date:** , 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week10_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week10_solution.pdf)
