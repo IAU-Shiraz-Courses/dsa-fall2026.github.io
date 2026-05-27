@@ -57,7 +57,7 @@ Download the weekly exercise sheets and their solution keys below. Make sure to 
 
 ---
 
-### Week 7 –
+### Week 7 – Hashing
 **Due Date:** May 19, 2026  
 📄 [Download Exercise Sheet](/static_files/exercises/week07_exercise.pdf)  
 📋 [Download Solution Key](/static_files/exercises/week07_solution.pdf)
