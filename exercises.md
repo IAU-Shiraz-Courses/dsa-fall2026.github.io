@@ -294,7 +294,7 @@ permalink: /exercises/
   <div class="download-links">
     <a href="/static_files/exercises/Week 01 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
-    </a
+    </a>
     <a href="/static_files/exercises/Week 01 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
