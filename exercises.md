@@ -9,12 +9,13 @@ permalink: /exercises/
     max-width: 900px;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 15px;
   }
 
   .intro-text {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 30px;
+    padding: 30px 20px;
     border-radius: 15px;
     text-align: center;
     margin-bottom: 40px;
@@ -36,7 +37,7 @@ permalink: /exercises/
   .exercise-card {
     background: white;
     border-radius: 12px;
-    padding: 25px 30px;
+    padding: 25px 20px;
     margin-bottom: 25px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     transition: all 0.3s ease;
@@ -49,18 +50,7 @@ permalink: /exercises/
   }
 
   .exercise-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-bottom: 15px;
-    flex-wrap: wrap;
-  }
-
-  .exercise-title {
-    font-size: 1.4em;
-    font-weight: 600;
-    color: #2d3748;
-    margin: 0;
   }
 
   .week-badge {
@@ -70,7 +60,18 @@ permalink: /exercises/
     border-radius: 20px;
     font-size: 0.85em;
     font-weight: 600;
-    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
+  .exercise-title {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #2d3748;
+    margin: 10px 0;
+    line-height: 1.4;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .due-date {
@@ -78,10 +79,11 @@ permalink: /exercises/
     color: #4a5568;
     padding: 8px 15px;
     border-radius: 8px;
-    font-size: 0.95em;
+    font-size: 0.9em;
     display: inline-flex;
     align-items: center;
     font-weight: 500;
+    margin-top: 10px;
   }
 
   .due-date::before {
@@ -91,26 +93,25 @@ permalink: /exercises/
   }
 
   .download-links {
-    display: flex;
-    gap: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
     margin-top: 15px;
-    flex-wrap: wrap;
   }
 
   .download-btn {
-    flex: 1;
-    min-width: 200px;
-    padding: 12px 20px;
+    padding: 12px 15px;
     border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
     text-align: center;
     transition: all 0.3s ease;
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    font-size: 0.95em;
+    gap: 8px;
+    font-size: 0.9em;
+    white-space: nowrap;
   }
 
   .exercise-btn {
@@ -137,10 +138,22 @@ permalink: /exercises/
     color: white;
   }
 
+  .code-btn {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    color: white;
+    box-shadow: 0 4px 10px rgba(79, 172, 254, 0.3);
+  }
+
+  .code-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(79, 172, 254, 0.4);
+    color: white;
+  }
+
   .additional-practice {
     background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
     border-radius: 12px;
-    padding: 30px;
+    padding: 30px 20px;
     margin-top: 50px;
     color: white;
   }
@@ -153,7 +166,7 @@ permalink: /exercises/
 
   .practice-links {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 15px;
     margin-top: 20px;
   }
@@ -187,22 +200,80 @@ permalink: /exercises/
     color: #744210;
   }
 
+  /* Mobile Optimization */
   @media (max-width: 768px) {
-    .exercise-header {
-      flex-direction: column;
-      align-items: flex-start;
+    .exercises-container {
+      padding: 0 10px;
     }
-    
-    .due-date {
-      margin-top: 10px;
+
+    .intro-text {
+      padding: 20px 15px;
+    }
+
+    .intro-text h2 {
+      font-size: 1.5em;
+    }
+
+    .intro-text p {
+      font-size: 1em;
+    }
+
+    .exercise-card {
+      padding: 20px 15px;
+    }
+
+    .exercise-title {
+      font-size: 1.05em;
+      line-height: 1.5;
+    }
+
+    .week-badge {
+      font-size: 0.8em;
+      padding: 4px 12px;
     }
 
     .download-links {
-      flex-direction: column;
+      grid-template-columns: 1fr;
+      gap: 10px;
     }
 
     .download-btn {
-      min-width: 100%;
+      width: 100%;
+      font-size: 0.85em;
+      padding: 12px 10px;
+    }
+
+    .additional-practice {
+      padding: 20px 15px;
+    }
+
+    .additional-practice h2 {
+      font-size: 1.4em;
+    }
+
+    .practice-links {
+      grid-template-columns: 1fr;
+    }
+
+    .note-box {
+      padding: 15px;
+      font-size: 0.9em;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .exercise-title {
+      font-size: 0.95em;
+    }
+
+    .week-badge {
+      font-size: 0.75em;
+    }
+
+    .download-btn {
+      font-size: 0.8em;
+      padding: 10px 8px;
+      gap: 5px;
     }
   }
 </style>
@@ -216,7 +287,8 @@ permalink: /exercises/
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 1</span>Sorting</h3>
+    <span class="week-badge">Week 1</span>
+    <h3 class="exercise-title">Sorting</h3>
     <span class="due-date">March 17, 2026</span>
   </div>
   <div class="download-links">
@@ -226,12 +298,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 01 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 01 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 2</span>Complexity_Analysis_of_Algorithms</h3>
+    <span class="week-badge">Week 2</span>
+    <h3 class="exercise-title">Complexity Analysis of Algorithms</h3>
     <span class="due-date">April 7, 2026</span>
   </div>
   <div class="download-links">
@@ -246,7 +322,8 @@ permalink: /exercises/
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 2.5</span>Complexity_Analysis_of_Algorithms</h3>
+    <span class="week-badge">Week 2.5</span>
+    <h3 class="exercise-title">Complexity Analysis of Algorithms</h3>
     <span class="due-date">April 21, 2026</span>
   </div>
   <div class="download-links">
@@ -261,7 +338,8 @@ permalink: /exercises/
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 3</span>Complexity_Analysis_of_Algorithms & Basic_Data_Structures & Tree_Storage_and_Traversal</h3>
+    <span class="week-badge">Week 3</span>
+    <h3 class="exercise-title">Complexity Analysis of Algorithms & Basic Data Structures & Tree Storage and Traversal</h3>
     <span class="due-date">April 21, 2026</span>
   </div>
   <div class="download-links">
@@ -271,12 +349,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 03 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 03 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 4</span>Trees & BST & Trie & Heap</h3>
+    <span class="week-badge">Week 4</span>
+    <h3 class="exercise-title">Trees & BST & Trie & Heap</h3>
     <span class="due-date">May 5, 2026</span>
   </div>
   <div class="download-links">
@@ -286,12 +368,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 04 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 04 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 5</span>Sorting_Advanced</h3>
+    <span class="week-badge">Week 5</span>
+    <h3 class="exercise-title">Sorting Advanced</h3>
     <span class="due-date">May 5, 2026</span>
   </div>
   <div class="download-links">
@@ -301,12 +387,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 05 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 05 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 6</span>Disjoint_Sets & Binary_Search_and_KSelect</h3>
+    <span class="week-badge">Week 6</span>
+    <h3 class="exercise-title">Disjoint Sets & Binary Search and KSelect</h3>
     <span class="due-date">May 12, 2026</span>
   </div>
   <div class="download-links">
@@ -316,12 +406,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 06 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 06 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 7</span>Hashing</h3>
+    <span class="week-badge">Week 7</span>
+    <h3 class="exercise-title">Hashing</h3>
     <span class="due-date">May 19, 2026</span>
   </div>
   <div class="download-links">
@@ -331,12 +425,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 07 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 07 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 8</span>Hashing & Graph_Algorithms</h3>
+    <span class="week-badge">Week 8</span>
+    <h3 class="exercise-title">Hashing & Graph Algorithms</h3>
     <span class="due-date">May 26, 2026</span>
   </div>
   <div class="download-links">
@@ -346,12 +444,16 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 08 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 08 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 9</span>Graph_Algorithms & Advanced_Data_Structures</h3>
+    <span class="week-badge">Week 9</span>
+    <h3 class="exercise-title">Graph Algorithms & Advanced Data Structures</h3>
     <span class="due-date">TBA, 2026</span>
   </div>
   <div class="download-links">
@@ -361,20 +463,27 @@ permalink: /exercises/
     <a href="/static_files/exercises/Week 09 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
+    <a href="/static_files/exercises/Week 09 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
+    </a>
   </div>
 </div>
 
 <div class="exercise-card">
   <div class="exercise-header">
-    <h3 class="exercise-title"><span class="week-badge">Week 10</span>Balanced_BSTs</h3>
+    <span class="week-badge">Week 10</span>
+    <h3 class="exercise-title">Balanced BSTs</h3>
     <span class="due-date">TBA, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercisesWeek 10 - Questions.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 10 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
     <a href="/static_files/exercises/Week 10 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
+    </a>
+    <a href="/static_files/exercises/Week 10 - Code.zip" class="download-btn code-btn">
+      💻 Code Files
     </a>
   </div>
 </div>
