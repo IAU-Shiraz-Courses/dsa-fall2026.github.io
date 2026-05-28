@@ -292,7 +292,7 @@ permalink: /exercises/
     <span class="due-date">March 17, 2026</span>
   </div>
   <div class="download-links">
-    <a herf="/static_files/Week 01 - Questions.pdf" class="download-btn exercise-btn">
+    <a herf="/static_files/presentations/Week 01 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
     <a href="/static_files/exercises/Week 01 - Answers.pdf" class="download-btn solution-btn">
