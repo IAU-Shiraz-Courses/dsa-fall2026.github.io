@@ -220,10 +220,10 @@ permalink: /exercises/
     <span class="due-date">March 17, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week01_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 01 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week01_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 01 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -235,10 +235,10 @@ permalink: /exercises/
     <span class="due-date">April 7, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week02_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 02 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week02_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 02 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -250,10 +250,10 @@ permalink: /exercises/
     <span class="due-date">April 21, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week02_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 2.5 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week02_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 2.5 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -265,10 +265,10 @@ permalink: /exercises/
     <span class="due-date">April 21, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week03_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 03 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week03_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 03 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -280,10 +280,10 @@ permalink: /exercises/
     <span class="due-date">May 5, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week04_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 04 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week04_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 04 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -295,10 +295,10 @@ permalink: /exercises/
     <span class="due-date">May 5, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week05_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 05 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week05_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 05 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -310,10 +310,10 @@ permalink: /exercises/
     <span class="due-date">May 12, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week06_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 06 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week06_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 06 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -325,10 +325,10 @@ permalink: /exercises/
     <span class="due-date">May 19, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week07_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 07 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week07_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 07 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -340,10 +340,10 @@ permalink: /exercises/
     <span class="due-date">May 26, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week08_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 08 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week08_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 08 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -355,10 +355,10 @@ permalink: /exercises/
     <span class="due-date">TBA, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week09_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercises/Week 09 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week09_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 09 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -370,10 +370,10 @@ permalink: /exercises/
     <span class="due-date">TBA, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/exercises/week10_exercise.pdf" class="download-btn exercise-btn">
+    <a href="/static_files/exercisesWeek 10 - Questions.pdf" class="download-btn exercise-btn">
       📄 Exercise Sheet
     </a>
-    <a href="/static_files/exercises/week10_solution.pdf" class="download-btn solution-btn">
+    <a href="/static_files/exercises/Week 10 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
