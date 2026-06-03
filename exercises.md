@@ -453,8 +453,8 @@ permalink: /exercises/
 <div class="exercise-card">
   <div class="exercise-header">
     <span class="week-badge">Week 9</span>
-    <h3 class="exercise-title">Graph Algorithms & Advanced Data Structures</h3>
-    <span class="due-date">TBA, 2026</span>
+    <h3 class="exercise-title">Graph Algorithms & Advanced Data Structures & Balanced BSTs</h3>
+    <span class="due-date">June 3, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/exercises/Week 09 - Questions.pdf" class="download-btn exercise-btn">
@@ -464,25 +464,6 @@ permalink: /exercises/
       📋 Solution Key
     </a>
     <a href="/static_files/exercises/Week 09 - Code.zip" class="download-btn code-btn">
-      💻 Code Files
-    </a>
-  </div>
-</div>
-
-<div class="exercise-card">
-  <div class="exercise-header">
-    <span class="week-badge">Week 10</span>
-    <h3 class="exercise-title">Balanced BSTs</h3>
-    <span class="due-date">TBA, 2026</span>
-  </div>
-  <div class="download-links">
-    <a href="/static_files/exercises/Week 10 - Questions.pdf" class="download-btn exercise-btn">
-      📄 Exercise Sheet
-    </a>
-    <a href="/static_files/exercises/Week 10 - Answers.pdf" class="download-btn solution-btn">
-      📋 Solution Key
-    </a>
-    <a href="/static_files/exercises/Week 10 - Code.zip" class="download-btn code-btn">
       💻 Code Files
     </a>
   </div>
