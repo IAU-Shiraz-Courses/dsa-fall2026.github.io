@@ -170,7 +170,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapter 4</span>
-    <h3 class="lecture-title">Trees, BST, Trie & Heap</h3>
+    <h3 class="lecture-title">Basic_Data_Structures</h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/jnqh9a9?playlist=25298190" class="watch-btn" target="_blank">
@@ -183,7 +183,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapter 5</span>
-    <h3 class="lecture-title">Advanced Sorting Algorithms</h3>
+    <h3 class="lecture-title">Trees</h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/dgen834?playlist=25298190" class="watch-btn" target="_blank">
@@ -196,7 +196,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapters 6, 7 & 8</span>
-    <h3 class="lecture-title">Disjoint Sets, Hashing & Basic Graphs</h3>
+    <h3 class="lecture-title">Sorting_Advanced ,Disjoint Sets, Binary_Search_and_KSelect</h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/hgan76v?playlist=25298190" class="watch-btn" target="_blank">
@@ -209,7 +209,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapter 9</span>
-    <h3 class="lecture-title">Advanced Graph Algorithms</h3>
+    <h3 class="lecture-title">Hashing</h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/mkpc63n?playlist=25298190" class="watch-btn" target="_blank">
@@ -222,7 +222,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapter 10</span>
-    <h3 class="lecture-title">Advanced Data Structures</h3>
+    <h3 class="lecture-title">Graph_Algorithms</h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/qoh88pi?playlist=25298190" class="watch-btn" target="_blank">
@@ -235,7 +235,7 @@ permalink: /lectures/
 <div class="lecture-card">
   <div class="lecture-info">
     <span class="chapter-badge">Chapters 11 & 12</span>
-    <h3 class="lecture-title">Balanced BSTs & Final Topics</h3>
+    <h3 class="lecture-title">Advanced_Data_Structures , Balanced BSTs </h3>
   </div>
   <div class="lecture-actions">
     <a href="https://www.aparat.com/v/krb1kh4?playlist=25298190" class="watch-btn" target="_blank">
