@@ -266,8 +266,7 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 1</span>
-    <h3 class="quiz-title">Quiz 1</h3>
-    <span class="due-date">March 17, 2026</span>
+    <span class="due-date">April 13, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/Quizzes/Quiz 01 - Questions.pdf" class="download-btn quiz-btn">
@@ -283,8 +282,7 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 2</span>
-    <h3 class="quiz-title">Quiz 2</h3>
-    <span class="due-date">April 7, 2026</span>
+    <span class="due-date">April 27, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/Quizzes/Quiz 02 - Questions.pdf" class="download-btn quiz-btn">
@@ -300,8 +298,7 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 3</span>
-    <h3 class="quiz-title">Quiz 3</h3>
-    <span class="due-date">April 21, 2026</span>
+    <span class="due-date">May 11, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/Quizzes/Quiz 03 - Questions.pdf" class="download-btn quiz-btn">
@@ -317,8 +314,7 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 4</span>
-    <h3 class="quiz-title">Quiz 4</h3>
-    <span class="due-date">May 19, 2026</span>
+    <span class="due-date">May 25, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/Quizzes/Quiz 04 - Questions.pdf" class="download-btn quiz-btn">
@@ -333,10 +329,8 @@ permalink: /quizzes/
 <!-- Quiz 5 - Last Chapter -->
 <div class="quiz-card last-quiz">
   <div class="quiz-header">
-    <span class="quiz-badge last-badge">Quiz 5</span>
-    <span class="last-chapter-tag">⭐ Last Chapter</span>
-    <h3 class="quiz-title">Graph Algorithms & Advanced Data Structures & Balanced BSTs</h3>
-    <span class="due-date">June 3, 2026</span>
+    <span class="quiz-badge last-badge">Quiz 5_⭐ The Last Chapter</span>
+    <span class="due-date">June 1, 2026</span>
   </div>
   <div class="download-links">
     <a href="/static_files/Quizzes/Quiz 05 - Questions.pdf" class="download-btn quiz-btn">
