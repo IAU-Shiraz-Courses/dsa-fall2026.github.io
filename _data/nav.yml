@@ -20,3 +20,7 @@ items:
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+
+- url: /quizzes/
+  name: Quizzes
+  icon_class: fas fa-question-circle
