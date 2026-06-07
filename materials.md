@@ -8,9 +8,9 @@ permalink: /materials/
 ## Hand-out
 
 Data Structures & Algorithms (DSA) – Spring 2026 – Dr. Eskandari 
-Authors: Hamid Namejoo, Amirhossein Hemmati, Amir Mohammad Asadjoo, Padina Razmjooei, Mohammadreza Fasli, Maryam Ghorbani Rad, Alireza Heydari, Ava Keshavarz, Abolfazl Tadrisi, Armin Jafarzadeh, Amirhossein Nazari, Atinaz Zendehdel.
 [Download full textbook (PDF)](https://my.files.ir/drive/s/zljs1uotDqVC65rJubm89qF1b63k3o)
 
+Authors: Hamid Namjoo, Amir Hossein Hemmati, Amir Mohammad Asadjoo, Padina Razmjooei, Mohammadreza Fasli, Maryam Ghorbani Zad, Alireza Heydari, Ava Keshavarz, Abolfazl Tadrisi, Armin Janfaza, Amirhossein Nazari, Aynaz Zendedel.
 ---
 
 ## Similar Courses
