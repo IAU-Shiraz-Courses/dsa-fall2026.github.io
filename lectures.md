@@ -173,7 +173,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Trees, BST, Trie & Heap</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/jnqh9a9?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
@@ -186,7 +186,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Advanced Sorting Algorithms</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/dgen834?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
@@ -199,7 +199,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Disjoint Sets, Hashing & Basic Graphs</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/hgan76v?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
@@ -212,7 +212,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Advanced Graph Algorithms</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/mkpc63n?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
@@ -225,7 +225,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Advanced Data Structures</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/qoh88pi?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
@@ -238,7 +238,7 @@ permalink: /lectures/
     <h3 class="lecture-title">Balanced BSTs & Final Topics</h3>
   </div>
   <div class="lecture-actions">
-    <a href="YOUR_LINK_HERE" class="watch-btn" target="_blank">
+    <a href="https://www.aparat.com/v/krb1kh4?playlist=25298190" class="watch-btn" target="_blank">
       ▶️ Watch Video
     </a>
   </div>
