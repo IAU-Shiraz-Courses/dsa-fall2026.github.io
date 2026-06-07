@@ -352,4 +352,3 @@ permalink: /quizzes/
 </div>
 
 </div>
-```
