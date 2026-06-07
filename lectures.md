@@ -129,17 +129,23 @@ permalink: /lectures/
       flex-direction: column;
       align-items: flex-start;
       padding: 20px 15px;
+      box-sizing: border-box;
+      overflow: hidden;
     }
 
     .lecture-actions {
       margin-left: 0;
       margin-top: 20px;
       width: 100%;
+      box-sizing: border-box;
     }
 
     .watch-btn {
       width: 100%;
       justify-content: center;
+      box-sizing: border-box;
+      padding: 12px 15px;
+      white-space: normal;
     }
 
     .lecture-title {
