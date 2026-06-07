@@ -266,14 +266,14 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 1</span>
-    <h3 class="quiz-title">Sorting</h3>
+    <h3 class="quiz-title">Quiz 1</h3>
     <span class="due-date">March 17, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/quizzes/Quiz 01 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="/static_files/Quizzes/Quiz 01 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/quizzes/Quiz 01 - Answers.pdf" class="download-btn solution-btn">
+    <a href="/static_files/Quizzes/Quiz 01 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -283,14 +283,14 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 2</span>
-    <h3 class="quiz-title">Complexity Analysis of Algorithms</h3>
+    <h3 class="quiz-title">Quiz 2</h3>
     <span class="due-date">April 7, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/quizzes/Quiz 02 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="/static_files/Quizzes/Quiz 02 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/quizzes/Quiz 02 - Answers.pdf" class="download-btn solution-btn">
+    <a href="/static_files/Quizzes/Quiz 02 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -300,14 +300,14 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 3</span>
-    <h3 class="quiz-title">Trees & BST & Trie & Heap</h3>
+    <h3 class="quiz-title">Quiz 3</h3>
     <span class="due-date">April 21, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/quizzes/Quiz 03 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="/static_files/Quizzes/Quiz 03 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/quizzes/Quiz 03 - Answers.pdf" class="download-btn solution-btn">
+    <a href="/static_files/Quizzes/Quiz 03 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -317,14 +317,14 @@ permalink: /quizzes/
 <div class="quiz-card">
   <div class="quiz-header">
     <span class="quiz-badge">Quiz 4</span>
-    <h3 class="quiz-title">Hashing & Graph Algorithms</h3>
+    <h3 class="quiz-title">Quiz 4</h3>
     <span class="due-date">May 19, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/quizzes/Quiz 04 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="/static_files/Quizzes/Quiz 04 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/quizzes/Quiz 04 - Answers.pdf" class="download-btn solution-btn">
+    <a href="/static_files/Quizzes/Quiz 04 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -339,10 +339,10 @@ permalink: /quizzes/
     <span class="due-date">June 3, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/quizzes/Quiz 05 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="/static_files/Quizzes/Quiz 05 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/quizzes/Quiz 05 - Answers.pdf" class="download-btn solution-btn">
+    <a href="/static_files/Quizzes/Quiz 05 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
