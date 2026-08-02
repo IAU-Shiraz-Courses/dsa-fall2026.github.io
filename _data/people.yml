@@ -1,6 +1,6 @@
 instructors:
   - name: "Dr.Amin Eskandari"
-    profile_pic: "_images/pp/Dr Eskandari.jpg"
+    profile_pic: "/_images/pp/Dr Eskandari.jpg"
     webpage: "https://www.linkedin.com/in/amin-eskandari-1756a73b/"
     
 head_teaching_assistants:
@@ -13,7 +13,7 @@ head_teaching_assistants:
     webpage: "https://github.com/AmirHosseinHemati"
 
   - name: "Ali Mojahed"
-    profile_pic: "_images/pp/Mojahed.jpg"
+    profile_pic: "/_images/pp/Mojahed.jpg"
     webpage: "https://github.com/alim0jahed"
 
 teaching_assistants:
