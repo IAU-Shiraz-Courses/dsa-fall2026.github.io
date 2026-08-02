@@ -4,8 +4,8 @@ course_description: "This course covers fundamental data structures, algorithmic
 course_semester: "spring 2026"
 
 
-baseurl: ""
-url: "https://dsa-spring2026.github.io"
+baseurl: "/dsa-spring2026.github.io"
+url: "https://iau-shiraz-courses.github.io"
 
 schoolname: "Islamic Azad University, Shiraz Branch"
 schoolurl: "http://iaushiraz.ac.ir"
