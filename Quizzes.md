@@ -269,10 +269,10 @@ permalink: /quizzes/
     <span class="due-date">April 13, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/Quizzes/Quiz 01 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 01 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/Quizzes/Quiz 01 - Answers.pdf" class="download-btn solution-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 01 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -285,10 +285,10 @@ permalink: /quizzes/
     <span class="due-date">April 27, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/Quizzes/Quiz 02 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 02 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/Quizzes/Quiz 02 - Answers.pdf" class="download-btn solution-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 02 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -301,10 +301,10 @@ permalink: /quizzes/
     <span class="due-date">May 11, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/Quizzes/Quiz 03 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 03 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/Quizzes/Quiz 03 - Answers.pdf" class="download-btn solution-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 03 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -317,10 +317,10 @@ permalink: /quizzes/
     <span class="due-date">May 25, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/Quizzes/Quiz 04 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 04 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/Quizzes/Quiz 04 - Answers.pdf" class="download-btn solution-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 04 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
@@ -333,10 +333,10 @@ permalink: /quizzes/
     <span class="due-date">June 1, 2026</span>
   </div>
   <div class="download-links">
-    <a href="/static_files/Quizzes/Quiz 05 - Questions.pdf" class="download-btn quiz-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 05 - Questions.pdf" class="download-btn quiz-btn">
       📄 Quiz Sheet
     </a>
-    <a href="/static_files/Quizzes/Quiz 05 - Answers.pdf" class="download-btn solution-btn">
+    <a href="{{ site.baseurl }}/static_files/Quizzes/Quiz 05 - Answers.pdf" class="download-btn solution-btn">
       📋 Solution Key
     </a>
   </div>
