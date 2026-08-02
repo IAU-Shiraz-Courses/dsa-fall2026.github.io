@@ -287,12 +287,12 @@ permalink: /materials/
 
   <!-- ── Handout ── -->
   <div class="handout-card">
-    <img src="/_images/screenshots/book.jpeg" alt="Textbook Cover" class="handout-cover" />
+    <img src="{{ site.baseurl }}/_images/screenshots/book.jpeg" alt="Textbook Cover" class="handout-cover" />
     <div class="handout-info">
       <h2>📖 Course Hand-out</h2>
       <p>Data Structures & Algorithms (DSA) – Spring 2026 – Dr. Eskandari</p>
 
-   <span class="authors-label">✍️ Authors</span>
+  <span class="authors-label">✍️ Authors</span>
       <div class="authors-grid">
         <span class="author-badge">Hamid Namjoo</span>
         <span class="author-badge">Amir Hossein Hemmati</span>
@@ -308,7 +308,7 @@ permalink: /materials/
         <span class="author-badge">Aynaz Zendedel</span>
       </div>
 
-   <a href="https://my.files.ir/drive/s/zljs1uotDqVC65rJubm89qF1b63k3o" class="download-btn" target="_blank">
+  <a href="https://my.files.ir/drive/s/zljs1uotDqVC65rJubm89qF1b63k3o" class="download-btn" target="_blank">
         📥 Download Full Textbook (PDF)
       </a>
     </div>
@@ -318,54 +318,54 @@ permalink: /materials/
   <div class="section-title">🎓 Similar Courses</div>
   <div class="courses-grid">
 
-   <a href="https://www.manning.com/books/grokking-algorithms" class="course-card" target="_blank">
+  <a href="https://www.manning.com/books/grokking-algorithms" class="course-card" target="_blank">
       <div class="course-name">Grokking Data Structures & Algorithms</div>
       <div class="course-uni">📘 Visual & simple guide with Python</div>
     </a>
 
-   <a href="https://web.stanford.edu/class/cs106b" class="course-card" target="_blank">
+  <a href="https://web.stanford.edu/class/cs106b" class="course-card" target="_blank">
       <div class="course-name">CS106B: Programming Abstractions</div>
       <div class="course-uni">🏛️ Stanford University</div>
     </a>
 
-   <a href="https://sp21.datastructur.es" class="course-card" target="_blank">
+  <a href="https://sp21.datastructur.es" class="course-card" target="_blank">
       <div class="course-name">CS61B: Data Structures</div>
       <div class="course-uni">🏛️ UC Berkeley</div>
     </a>
 
-   <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/" class="course-card" target="_blank">
+  <a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/" class="course-card" target="_blank">
       <div class="course-name">6.006 Introduction to Algorithms</div>
       <div class="course-uni">🏛️ MIT OpenCourseWare</div>
     </a>
 
-   <a href="https://courses.engr.illinois.edu/cs225" class="course-card" target="_blank">
+  <a href="https://courses.engr.illinois.edu/cs225" class="course-card" target="_blank">
       <div class="course-name">CS 225: Data Structures</div>
       <div class="course-uni">🏛️ University of Illinois Urbana‑Champaign</div>
     </a>
 
-   <a href="https://student.cs.uwaterloo.ca/~cs240" class="course-card" target="_blank">
+  <a href="https://student.cs.uwaterloo.ca/~cs240" class="course-card" target="_blank">
       <div class="course-name">CS 240: Data Structures & Data Management</div>
       <div class="course-uni">🏛️ University of Waterloo</div>
     </a>
 
-   <a href="https://www.cs.purdue.edu/homes/ayg/CS251" class="course-card" target="_blank">
+  <a href="https://www.cs.purdue.edu/homes/ayg/CS251" class="course-card" target="_blank">
       <div class="course-name">CS 251: Data Structures and Algorithms</div>
       <div class="course-uni">🏛️ Purdue University</div>
     </a>
 
-   <a href="https://www.cs.ox.ac.uk/teaching/courses/2022-2023/algorithms/" class="course-card" target="_blank">
+  <a href="https://www.cs.ox.ac.uk/teaching/courses/2022-2023/algorithms/" class="course-card" target="_blank">
       <div class="course-name">Data Structures</div>
       <div class="course-uni">🏛️ University of Oxford</div>
     </a>
 
-   <a href="https://www.cs.princeton.edu/~wayne/kleinberg-tardos/" class="course-card" target="_blank">
+  <a href="https://www.cs.princeton.edu/~wayne/kleinberg-tardos/" class="course-card" target="_blank">
       <div class="course-name">Algorithm Design Slides (Kleinberg & Tardos)</div>
       <div class="course-uni">🏛️ Princeton University</div>
     </a>
 
   </div>
 
-  <!-- ── Recommended Books ── -->
+<!-- ── Recommended Books ── -->
   <div class="section-title">📚 Recommended Books & References</div>
   <div class="books-list">
     <div class="book-item">
@@ -386,17 +386,17 @@ permalink: /materials/
   <div class="section-title">🔗 Additional Course Materials</div>
   <div class="resources-grid">
 
-   <a href="https://docs.python.org/3/tutorial/" class="resource-card" target="_blank">
-      <div class="res-name">🐍 Python for Beginners</div>
+  <a href="https://docs.python.org/3/tutorial/" class="resource-card" target="_blank">
+    <div class="res-name">🐍 Python for Beginners</div>
       <div class="res-desc">Official Python tutorial</div>
     </a>
 
-   <a href="https://visualgo.net" class="resource-card" target="_blank">
+  <a href="https://visualgo.net" class="resource-card" target="_blank">
       <div class="res-name">🎨 Visualgo</div>
       <div class="res-desc">Data structure visualizations</div>
     </a>
 
-   <a href="https://geeksforgeeks.org" class="resource-card" target="_blank">
+  <a href="https://geeksforgeeks.org" class="resource-card" target="_blank">
       <div class="res-name">🧠 GeeksforGeeks</div>
       <div class="res-desc">DSA problems and solutions</div>
     </a>
