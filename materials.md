@@ -290,7 +290,7 @@ permalink: /materials/
     <img src="{{ site.baseurl }}/_images/screenshots/book.jpeg" alt="Textbook Cover" class="handout-cover" />
     <div class="handout-info">
       <h2>📖 Course Hand-out</h2>
-      <p>Data Structures & Algorithms (DSA) – Spring 2026 – Dr. Eskandari</p>
+      <p>Data Structures & Algorithms (DSA) – Fall 2026 – Dr. Eskandari</p>
 
   <span class="authors-label">✍️ Authors</span>
       <div class="authors-grid">
