@@ -1,5 +1,5 @@
 ---
 title: "Welcome to Data Structures and Algorithms  Course"
-date: 2026-02-05
+date: 2026-09-12
 ---
-**Welcome to Data Structures and Algorithms - Spring 2026!**
+**Welcome to Data Structures and Algorithms - Fall 2026!**
