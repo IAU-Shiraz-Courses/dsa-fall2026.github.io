@@ -1,4 +1,6 @@
 offerings:
+  - title: Spring 2026 
+    url: "https://dsa-spring2026.github.io/"
   - title: Fall 2025
     url: "https://ds-fall2025.github.io/ds-fall2025/" 
   
@@ -7,4 +9,3 @@ offerings:
 
   - title: Fall 2024 
     url: "https://ds-of-azad-university.github.io/"
-    
