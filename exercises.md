@@ -4,8 +4,6 @@ title: Exercises
 permalink: /exercises/
 ---
 
-<style>
-
 <div class="additional-practice">
   <h2>🚀 Additional Practice</h2>
   <div class="practice-links">
