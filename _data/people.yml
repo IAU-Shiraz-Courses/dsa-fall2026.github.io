@@ -4,24 +4,20 @@ instructors:
     webpage: "https://www.linkedin.com/in/amin-eskandari-1756a73b/"
     
 head_teaching_assistants:
-  - name: "Hamid Namjoo"
-    profile_pic: "/_images/pp/Hamid_Namjoo.jpg"
-    webpage: "https://www.linkedin.com/in/hamid-namjoo/"
-
-  - name: "Amir Hossein Hemmati"
-    profile_pic: "/_images/pp/Hemati.jpg"
-    webpage: "https://github.com/AmirHosseinHemati"
-
-  - name: "Ali Mojahed"
-    profile_pic: "/_images/pp/Mojahed.jpg"
-    webpage: "https://github.com/alim0jahed"
-
-teaching_assistants:
-  - name: "Amir Mohammd Asadjoo"
+  - name: "Amir Mohammad Asadjoo"
     profile_pic: "/_images/pp/asadjoo.jpg"
     webpage: "https://www.linkedin.com/in/amir-mohammd-asadjoo"
 
-  - name: "Padina Razmjooei"
+  - name: "Ali Nikvan"
+    profile_pic: "/_images/pp/Hemati.jpg"
+    webpage: "https://github.com/AmirHosseinHemati"
+
+teaching_assistants:
+  - name: "Mehdi Heidari"
+    profile_pic: "/_images/pp/asadjoo.jpg"
+    webpage: "https://www.linkedin.com/in/amir-mohammd-asadjoo"
+
+  - name: "Narges Hosseini"
     profile_pic: "/_images/pp/Razmjooei.jpg"
     webpage: "mailto:PrazmRJ@gmail.com"
 
@@ -29,26 +25,19 @@ teaching_assistants:
     profile_pic: "/_images/pp/Janfaza.jpg"
     webpage: "https://www.linkedin.com/in/armin-janfaza"
 
-  - name: "Alireza Heydari"
+  - name: "Arvin Afshari"
     profile_pic: "/_images/pp/Heydari.jpg"
     webpage: "https://github.com/Dayancodebro"
 
-  - name: "Mehdi Torabi"
+  - name: "Amir Arshia Toutounchi"
     profile_pic: "/_images/pp/Torabi.jpg"
     webpage: "mailto:torabim404@gmail.com"
   
-  - name: "Maryam Ghorbani"
-    profile_pic: "/_images/pp/Ghorbani.jpg"
-    webpage: "mailto:mryamgh1383@gmail.com"
-    
-  - name: "Mohammad Reza Fasli"
-    profile_pic: "/_images/pp/Fasli.jpg"
-    webpage: "mailto:Mohammadrezafasli1234@gmail.com"
-    
-  - name: "Fatemeh Keshavarz"
-    profile_pic: "/_images/pp/Keshavarz.jpg"
-    webpage: "mailto:avakeshavarz1385@gmail.com"
-    
   - name: "Abolfazl Tadrisi"
     profile_pic: "/_images/pp/Tadrisi.jpg"
     webpage: "https://www.linkedin.com/in/abolfazl-tadrisi"
+    
+  - name: "Fatemeh Feizi"
+    profile_pic: "/_images/pp/Fasli.jpg"
+    webpage: "mailto:Mohammadrezafasli1234@gmail.com"
+    
