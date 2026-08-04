@@ -298,7 +298,7 @@ permalink: /exercises/
       🏆 Codeforces<br><small>Competitive programming</small>
     </a>
   </div>
-   
+  
   <div class="note-box">
     <strong>⚠️ Note:</strong> Solutions are provided for self-study. Try to solve problems independently before consulting the answer keys!
   </div>
