@@ -1,10 +1,10 @@
 # Site settings
 course_name: "Data Structures and Algorithms "
 course_description: "This course covers fundamental data structures, algorithmic techniques, and their applications in solving computational problems. Topics include arrays, linked lists, stacks, queues, trees, graphs, hashing, and complexity analysis."
-course_semester: "spring 2026"
+course_semester: "fall 2026"
 
 
-baseurl: "/dsa-spring2026.github.io"
+baseurl: "/dsa-fall2026.github.io"
 url: "https://iau-shiraz-courses.github.io"
 
 schoolname: "Islamic Azad University, Shiraz Branch"
