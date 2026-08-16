@@ -9,35 +9,31 @@ head_teaching_assistants:
     webpage: "https://www.linkedin.com/in/amir-mohammd-asadjoo"
 
   - name: "Ali Nikvan"
-    profile_pic: "/_images/pp/Hemati.jpg"
-    webpage: "https://github.com/AmirHosseinHemati"
+    profile_pic: ""
+    webpage: ""
 
 teaching_assistants:
   - name: "Mehdi Heidari"
-    profile_pic: "/_images/pp/Hemati.jpg"
-    webpage: "https://www.linkedin.com/in/amir-mohammd-asadjoo"
+    profile_pic: ""
+    webpage: ""
 
   - name: "Narges Hosseini"
     profile_pic: "/_images/pp/Hosseini.jpg"
     webpage: "https://github.com/nargeshosseyni"
-
-  - name: "Armin Janfaza"
-    profile_pic: "/_images/pp/Janfaza.jpg"
-    webpage: "https://www.linkedin.com/in/armin-janfaza"
-
-  - name: "Arvin Afshari"
-    profile_pic: "/_images/pp/Heydari.jpg"
-    webpage: "https://github.com/Dayancodebro"
-
-  - name: "Amir Arshia Toutounchi"
-    profile_pic: "/_images/pp/Torabi.jpg"
-    webpage: "mailto:torabim404@gmail.com"
-  
+ 
   - name: "Abolfazl Tadrisi"
     profile_pic: "/_images/pp/Tadrisi.jpg"
     webpage: "https://www.linkedin.com/in/abolfazl-tadrisi"
-    
+ 
+  - name: "Arvin Afshari"
+    profile_pic: ""
+    webpage: ""
+
+  - name: "Amir Arshia Toutounchi"
+    profile_pic: ""
+    webpage: ""
+     
   - name: "Fatemeh Feizi"
-    profile_pic: "/_images/pp/Fasli.jpg"
-    webpage: "mailto:Mohammadrezafasli1234@gmail.com"
+    profile_pic: ""
+    webpage: ""
     
