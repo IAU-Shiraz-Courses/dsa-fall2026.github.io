@@ -14,8 +14,8 @@ head_teaching_assistants:
 
 teaching_assistants:
   - name: "Mehdi Heidari"
-    profile_pic: "/_images/pp/Nothing.jpg"
-    webpage: ""
+    profile_pic: "/_images/pp/Heidari.jpg"
+    webpage: "https://github.com/V-MHD7"
 
   - name: "Narges Hosseini"
     profile_pic: "/_images/pp/Hosseini.jpg"
@@ -26,14 +26,14 @@ teaching_assistants:
     webpage: "https://www.linkedin.com/in/abolfazl-tadrisi"
  
   - name: "Arvin Afshari"
-    profile_pic: "/_images/pp/Nothing.jpg"
-    webpage: ""
+    profile_pic: "/_images/pp/Afshari.jpg"
+    webpage: "mailto:arvinafshar6770@gmail.com"
 
-  - name: "Amir Arshia Toutounchi"
-    profile_pic: "/_images/pp/Nothing.jpg"
+  - name: "Amir Arshia Tootoonchi"
+    profile_pic: "/_images/pp/Tootoonchi.jpg"
     webpage: ""
      
-  - name: "Fatemeh Feizi"
-    profile_pic: "/_images/pp/Nothing.jpg"
-    webpage: ""
+  - name: "Fatemeh Feyzi"
+    profile_pic: "/_images/pp/Feyzi.jpg"
+    webpage: "https://www.linkedin.com/in/yas-feyzi-913267260?utm_source=share_via&utm_content=profile&utm_medium=member_android"
     
