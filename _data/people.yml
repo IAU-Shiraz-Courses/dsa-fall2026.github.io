@@ -9,12 +9,12 @@ head_teaching_assistants:
     webpage: "https://www.linkedin.com/in/amir-mohammd-asadjoo"
 
   - name: "Ali Nikvan"
-    profile_pic: ""
-    webpage: ""
+    profile_pic: "/_images/pp/Nikvan.jpg"
+    webpage: "https://t.me//xAlleenx"
 
 teaching_assistants:
   - name: "Mehdi Heidari"
-    profile_pic: ""
+    profile_pic: "/_images/pp/Nothing.jpg"
     webpage: ""
 
   - name: "Narges Hosseini"
@@ -26,14 +26,14 @@ teaching_assistants:
     webpage: "https://www.linkedin.com/in/abolfazl-tadrisi"
  
   - name: "Arvin Afshari"
-    profile_pic: ""
+    profile_pic: "/_images/pp/Nothing.jpg"
     webpage: ""
 
   - name: "Amir Arshia Toutounchi"
-    profile_pic: ""
+    profile_pic: "/_images/pp/Nothing.jpg"
     webpage: ""
      
   - name: "Fatemeh Feizi"
-    profile_pic: ""
+    profile_pic: "/_images/pp/Nothing.jpg"
     webpage: ""
     
